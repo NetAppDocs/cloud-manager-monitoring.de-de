@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="doc"></block>
+  <block id="912bed1d23c871964d4d8656f78f54b8" category="sidebar">Monitoring-Dokumentation</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Versionshinweise</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Los geht's</block>
+  <block id="32170de6c2f418678b9e314d24c62ca6" category="sidebar">Erfahren Sie mehr über den Monitoring-Service</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Schnellstart</block>
+  <block id="729e3399d869de5540bc06d71a6bcf81" category="sidebar">Aktivieren Sie Monitoring</block>
+  <block id="2a8c90464d0bceecefc5742b343edc30" category="sidebar">Verwenden Sie den Überwachungsdienst</block>
+  <block id="ce77715626079095fa554aca4f19278b" category="sidebar">Monitoring der Volume Performance</block>
+  <block id="dc0b4c4961a51250a7863d226048ea35" category="sidebar">Deaktivieren Sie den Überwachungsdienst</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Wissen und Support</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="sidebar">Für den Support anmelden</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="sidebar">Holen Sie sich Hilfe</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="sidebar">Rechtliche Hinweise</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs Community</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp Community</block>
+  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central Blog</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Cloud-Webinare</block>
+  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">Alle Dokumentationen zum Cloud Manager</block>
+</blocks>
